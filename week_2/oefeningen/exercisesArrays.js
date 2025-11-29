@@ -220,7 +220,12 @@ let voorbeeldMatrix = [
 console.log(transpose(voorbeeldMatrix));
 
 //Oefening 15
-function fibonacci(limiet, reeks = [0, 1]) {
-  // Implementeer de logica hier
+function fibonacci(limit, list = [0, 1]) {
+    const nextNumber = list.at(-1) + list.at(-2);
+    if(limit > nextNumber) {
+        list.push(nextNumber);
+        fibonacci(limit, list);
+    }
+    return list;
 }
-console.log(fibonacci(10));
+console.log(fibonacci(100));
