@@ -126,9 +126,9 @@ function sumArrays(ar1, ar2){
 
 // Oefening 9
 let woordenArray = ['appel', 'peer', 'kiwi', 'banaan'];
-// let langsteWoord = console.log(woordenArray.reduce((prevRec, curRec) => {
-//     return prevRec.length > curRec.length ? prevRec : curRec;
-// }));
+let langsteWoord = console.log(woordenArray.reduce((prevRec, curRec) => {
+    return prevRec.length > curRec.length ? prevRec : curRec;
+}));
 
 // Oefening 10
 function filterEvenGetallen(getallen) {
