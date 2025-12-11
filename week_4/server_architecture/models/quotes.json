@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "quote": "The stars remember those who dare to dream beyond their reach.",
+        "character": "Captain Mira Sol",
+        "movie": "Voyage to Orion"
+    },
+    {
+        "id": "2",
+        "quote": "We trade more than goods here; we trade second chances.",
+        "character": "Lina Torres",
+        "movie": "Midnight Market"
+    },
+    {
+        "id": "3",
+        "quote": "Light is a promise you keep when the world forgets how to hope.",
+        "character": "Elias Harrow",
+        "movie": "The Last Lighthouse"
+    },
+    {
+        "id": "4",
+        "quote": "Cities are made of paper and stories — fold them wisely.",
+        "character": "Jun Park",
+        "movie": "Paper Cities"
+    },
+    {
+        "id": "5",
+        "quote": "If you listen closely, the future will tell you how to heal the present.",
+        "character": "Dr. Ada Rue",
+        "movie": "Echoes of Tomorrow"
+    }
+]
