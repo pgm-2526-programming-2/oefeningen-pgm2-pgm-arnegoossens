@@ -1,0 +1,102 @@
+[
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Eiffel Tower",
+    "country": "France",
+    "city": "Paris",
+    "coordinates": {
+      "lat": 48.8584,
+      "long": 2.2945
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "Statue of Liberty",
+    "country": "United States",
+    "city": "New York",
+    "coordinates": {
+      "lat": 40.6892,
+      "long": -74.0445
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "Great Wall of China",
+    "country": "China",
+    "city": "Beijing",
+    "coordinates": {
+      "lat": 40.4319,
+      "long": 116.5704
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "Colosseum",
+    "country": "Italy",
+    "city": "Rome",
+    "coordinates": {
+      "lat": 41.8902,
+      "long": 12.4924
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "city": "Aguas Calientes",
+    "coordinates": {
+      "lat": -13.1631,
+      "long": -72.5450
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440005",
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "city": "Sydney",
+    "coordinates": {
+      "lat": -33.8568,
+      "long": 151.2153
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440006",
+    "name": "Petra",
+    "country": "Jordan",
+    "city": "Wadi Musa",
+    "coordinates": {
+      "lat": 30.3285,
+      "long": 35.4444
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440007",
+    "name": "Taj Mahal",
+    "country": "India",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.1751,
+      "long": 78.0421
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440008",
+    "name": "Sagrada Família",
+    "country": "Spain",
+    "city": "Barcelona",
+    "coordinates": {
+      "lat": 41.4036,
+      "long": 2.1744
+    }
+  },
+  {
+    "uuid": "550e8400-e29b-41d4-a716-446655440009",
+    "name": "Banff National Park",
+    "country": "Canada",
+    "city": "Banff",
+    "coordinates": {
+      "lat": 51.4968,
+      "long": -115.9281
+    }
+  }
+]

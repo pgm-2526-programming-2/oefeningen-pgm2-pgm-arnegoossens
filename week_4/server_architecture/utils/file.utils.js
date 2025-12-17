@@ -10,4 +10,4 @@ function replaceData(file, data, basePath = "models") {
     filesystemModule.writeFileSync(pathModule.join(__dirname, "..", basePath, file), dataString);
 }
 
-module.exports = {getData, replaceData}
+module.exports = {getData, replaceData};

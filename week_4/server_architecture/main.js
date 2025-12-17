@@ -14,5 +14,5 @@ app.listen(8080, "localhost", (err) => {
         return console.log(err.message);
     }
 
-    console.log("Server is opgestart en draaiende op http://localhost:8080")
+    console.log("Server is opgestart en draaiende op http://localhost:8080");
 });
