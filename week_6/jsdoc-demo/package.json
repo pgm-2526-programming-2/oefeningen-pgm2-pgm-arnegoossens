@@ -1,0 +1,17 @@
+{
+  "name": "jsdoc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "doc": "jsdoc -c jsdoc.config.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
