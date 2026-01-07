@@ -4,6 +4,7 @@ const app = express();
 const PORT = 3030;
 const HOST = "localhost";
 
+app.use(express.json());
 app.use(locationsRouter);
 
 app.listen(PORT, HOST, (err) => {

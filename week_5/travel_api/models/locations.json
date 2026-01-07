@@ -80,16 +80,6 @@
     }
   },
   {
-    "uuid": "550e8400-e29b-41d4-a716-446655440008",
-    "name": "Sagrada Família",
-    "country": "Spain",
-    "city": "Barcelona",
-    "coordinates": {
-      "lat": 41.4036,
-      "long": 2.1744
-    }
-  },
-  {
     "uuid": "550e8400-e29b-41d4-a716-446655440009",
     "name": "Banff National Park",
     "country": "Canada",
